@@ -3,6 +3,7 @@
 
 int main(int argc, char *argv[])
 {
+    //komentarz w galezi dupa.
     QApplication a(argc, argv);
     Widget w;
     w.show();
